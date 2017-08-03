@@ -1,0 +1,1 @@
+Plaster ["..FC", "E...B", "..ED", "A..FC", "E..G"]
